@@ -1,0 +1,8 @@
+.git
+.github
+.gitignore
+.pre-commit*
+.env
+.docker_env
+.env_sample
+docker-compose.yaml
